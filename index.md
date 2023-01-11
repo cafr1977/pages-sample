@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
 ## Welcome everyone to my spiffy site!
-
+Today is a good day.
 
 #### Here are some example pages:
 
